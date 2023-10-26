@@ -23,6 +23,7 @@ export const NameForm = () => {
             history.push(ROUTES.BOARDS);
 
     }
+    
 
     const onAddteam = () => {
         const tagValue = inputValue;

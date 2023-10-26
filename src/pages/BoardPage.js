@@ -44,7 +44,8 @@ export const BoardPage = withRouter(
         }
         const handleAllocate = () => {
             console.log(board)
-            // here
+            // here take board make a logic and allocate
+            setLoading(true)
         }
 
         return (
