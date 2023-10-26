@@ -5,3 +5,17 @@
 #root {
     height: 100%;
 }
+
+.glass-effect {
+    --border-bottom-width: 2px;
+    --border-color: hsla(0,0%,100%,.05);
+    --border-style: solid;
+    --border-top-width: 2px;
+    -webkit-backdrop-filter: blur(40px);
+    backdrop-filter: blur(40px);
+    background-color: rgba(0,0,0,.2);
+    opacity: 1;
+    border-radius: 30px;
+    height: auto;
+    transform: perspective(1200px) translate(50%);
+}
