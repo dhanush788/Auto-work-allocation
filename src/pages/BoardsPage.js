@@ -6,6 +6,7 @@ import { withAuthorization } from '../auth/auth-hoc';
 import { BoardTitle } from '../components/BoardTitle';
 import { BoardModal } from '../components/BoardModal';
 import { BoardsPageSkeleton } from '../components/BoardsPageSkeleton';
+import { Boards } from '../constant/constant';
 
 export const BoardsPage = withAuthorization((authUser) => !!authUser)(() => {
     const [boards, setBoards] = useState({});
@@ -21,13 +22,15 @@ export const BoardsPage = withAuthorization((authUser) => !!authUser)(() => {
     }, []);
 
     const fetchBoards = async () => {
-        await boardService.userBoards().on('value', (snapshot) => {
-            if (!snapshot) {
-                return;
-            }
-            setBoards(objectToArray(snapshot.val() || {}));
-            setLoading(false);
-        });
+        // await boardService.userBoards().on('value', (snapshot) => {
+        //     if (!snapshot) {
+        //         return;
+        //     }
+        //     setBoards(objectToArray(snapshot.val() || {}));
+        //     setLoading(false);
+        // });
+        setBoards(Boards)
+        setLoading(false)
     };
 
     const addBoard = async (board) => {

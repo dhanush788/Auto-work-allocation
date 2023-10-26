@@ -125,3 +125,92 @@ export const team = [
     },
 ];
 
+
+export const Boards = [
+    {
+        "lanes": [
+            {
+                "cards": [
+                    {
+                        "description": "nice@gmail.com",
+                        "id": "9ddbcee0-7409-11ee-85db-117217240df7",
+                        "laneId": "92045830-7409-11ee-85db-117217240df7",
+                        "title": "work1"
+                    },
+                    {
+                        "description": "kjgb",
+                        "id": "a14deb30-7409-11ee-85db-117217240df7",
+                        "laneId": "92045830-7409-11ee-85db-117217240df7",
+                        "title": "work2"
+                    }
+                ],
+                "currentPage": 1,
+                "id": "92045830-7409-11ee-85db-117217240df7",
+                "title": "Stage1"
+            },
+            {
+                "cards": [
+                    {
+                        "id": "96874740-7414-11ee-91e9-09b34e12716c",
+                        "laneId": "92c53630-7414-11ee-91e9-09b34e12716c",
+                        "title": "work3"
+                    },
+                    {
+                        "id": "9f618480-7409-11ee-85db-117217240df7",
+                        "laneId": "92c53630-7414-11ee-91e9-09b34e12716c",
+                        "title": "work4"
+                    }
+                ],
+                "currentPage": 1,
+                "id": "92c53630-7414-11ee-91e9-09b34e12716c",
+                "title": "Stage2"
+            }
+        ],
+        "title": "Organisation name",
+        "key": "-NhffYKIFO0AFhYHN9k6"
+    },
+    {
+        "lanes": [
+            {
+                "cards": [
+                    {
+                        "description": "nice@gmail.com",
+                        "id": "9ddbcee0-7409-11ee-85db-117217240df7",
+                        "laneId": "92045830-7409-11ee-85db-117217240df7",
+                        "title": "work1"
+                    },
+                    {
+                        "description": "kjgb",
+                        "id": "a14deb30-7409-11ee-85db-117217240df7",
+                        "laneId": "92045830-7409-11ee-85db-117217240df7",
+                        "title": "work2"
+                    }
+                ],
+                "currentPage": 1,
+                "id": "92045830-7409-11ee-85db-117217240df7",
+                "title": "Stage1"
+            },
+            {
+                "cards": [
+                    {
+                        "id": "96874740-7414-11ee-91e9-09b34e12716c",
+                        "laneId": "92c53630-7414-11ee-91e9-09b34e12716c",
+                        "title": "work3"
+                    },
+                    {
+                        "id": "9f618480-7409-11ee-85db-117217240df7",
+                        "laneId": "92c53630-7414-11ee-91e9-09b34e12716c",
+                        "title": "work4"
+                    }
+                ],
+                "currentPage": 1,
+                "id": "92c53630-7414-11ee-91e9-09b34e12716c",
+                "title": "Stage2"
+            }
+        ],
+        "title": "Organisation name",
+        "key": "-NhffYKIFO0AFhYHNk6"
+    },
+
+]
+

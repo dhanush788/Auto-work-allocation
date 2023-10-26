@@ -4,6 +4,8 @@ import Board from 'react-trello';
 import { boardService } from '../application/services';
 import { withAuthorization } from '../auth/auth-hoc';
 import { BoardSkeleton } from '../components/BoardSkeleton';
+import { Boards } from '../constant/constant';
+import { useParams } from 'react-router-dom';
 
 export const BoardPage = withRouter(
     withAuthorization((authUser) => !!authUser)((props) => {
@@ -19,11 +21,17 @@ export const BoardPage = withRouter(
                 setLoading(false);
             })();
         }, []);
+        const url  = useParams();
+        const message = url.board;
+
 
         const fetchBoard = async () => {
             const data = (await boardService.getBoard(boardId())).val();
-            setBoard(prepareBoard(data));
+            // setBoard(prepareBoard(data));
+            const board = Boards.filter(b => b.key == message)
+            setBoard(prepareBoard(board[0]))
         };
+
 
         // Fill empty properties that are important for Board component
         const prepareBoard = (board) => ({
@@ -35,13 +43,14 @@ export const BoardPage = withRouter(
         });
 
         const boardId = () => props.match?.params?.board;
-        console.log(board)
 
         const handleDataChange = async (data) => await boardService.updateBoard(boardId(), data);
 
         if (loading) {
             return <BoardSkeleton count={5} />;
         }
+
+
         const handleAllocate = () => {
             console.log(board)
             // here take board make a logic and allocate
