@@ -18,7 +18,7 @@ export const NameForm = () => {
                 email:getUser()?._delegate?.email
                 
             })
-
+            // here 
 
             history.push(ROUTES.BOARDS);
 

@@ -8,6 +8,7 @@ export const BoardModal = (props) => {
     const [loading, setLoading] = useState(false);
     const [tags , setTags] = useState([]);
     const [inputValue, setInput] = useState("");    
+    const [data ,setData] = useState({})
 
 
     const isEmptyText = (text) => !text || !text.trim();
@@ -21,8 +22,16 @@ export const BoardModal = (props) => {
         await action({
             title: boardTitle,
         });
+        setData({
+            title:boardTitle,
+            teamMembers:tags,
+        })
+        // here
+
         setBoardTitle('');
         setLoading(false);
+        setInput("")
+        setTags([])
     };
 
     const onAddteam = () => {
