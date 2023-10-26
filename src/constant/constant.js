@@ -82,48 +82,48 @@ export const user = [
 ];
 
 
-export const team = [
-    {
-        title: "Landing",
-        teamMembers: ["natalie.white@example.com", "sophia.adams@example.com", "linda.miller@example.com", "robert.johnson@example.com"]
-    },
-    {
-        title: "Design",
-        teamMembers: ["sarah.smith@example.com", "emily.davis@example.com", "olivia.anderson@example.com"]
-    },
-    {
-        title: "Development",
-        teamMembers: ["john.doe@example.com", "thomas.wilson@example.com", "dhanushpk50@gmail.com"]
-    },
-    {
-        title: "Marketing",
-        teamMembers: ["david.brown@example.com", "jennifer.wilson@example.com", "samuel.green@example.com"]
-    },
-    {
-        title: "Data Analysis",
-        teamMembers: ["natalie.white@example.com", "dhanushpk50@gmail.com"]
-    },
-    {
-        title: "Support",
-        teamMembers: ["alice.johnson@example.com", "mike.williams@example.com"]
-    },
-    {
-        title: "Content Team",
-        teamMembers: ["sophia.adams@example.com", "olivia.anderson@example.com"]
-    },
-    {
-        title: "Product Management",
-        teamMembers: ["robert.johnson@example.com", "dhanushpk50@gmail.com"]
-    },
-    {
-        title: "Quality Assurance",
-        teamMembers: ["emily.davis@example.com", "john.doe@example.com"]
-    },
-    {
-        title: "Sales",
-        teamMembers: ["sarah.smith@example.com", "linda.miller@example.com"]
-    },
-];
+// export const team = [
+//     {
+//         title: "Landing",
+//         teamMembers: ["natalie.white@example.com", "sophia.adams@example.com", "linda.miller@example.com", "robert.johnson@example.com"]
+//     },
+//     {
+//         title: "Design",
+//         teamMembers: ["sarah.smith@example.com", "emily.davis@example.com", "olivia.anderson@example.com"]
+//     },
+//     {
+//         title: "Development",
+//         teamMembers: ["john.doe@example.com", "thomas.wilson@example.com", "dhanushpk50@gmail.com"]
+//     },
+//     {
+//         title: "Marketing",
+//         teamMembers: ["david.brown@example.com", "jennifer.wilson@example.com", "samuel.green@example.com"]
+//     },
+//     {
+//         title: "Data Analysis",
+//         teamMembers: ["natalie.white@example.com", "dhanushpk50@gmail.com"]
+//     },
+//     {
+//         title: "Support",
+//         teamMembers: ["alice.johnson@example.com", "mike.williams@example.com"]
+//     },
+//     {
+//         title: "Content Team",
+//         teamMembers: ["sophia.adams@example.com", "olivia.anderson@example.com"]
+//     },
+//     {
+//         title: "Product Management",
+//         teamMembers: ["robert.johnson@example.com", "dhanushpk50@gmail.com"]
+//     },
+//     {
+//         title: "Quality Assurance",
+//         teamMembers: ["emily.davis@example.com", "john.doe@example.com"]
+//     },
+//     {
+//         title: "Sales",
+//         teamMembers: ["sarah.smith@example.com", "linda.miller@example.com"]
+//     },
+// ];
 
 
 export const Boards = [
