@@ -2,7 +2,7 @@ import firebase from 'firebase/compat/app';
 import 'firebase/compat/auth';
 import { db } from './firebase';
 
-const firebaseAuth = () => firebase.auth();
+export const firebaseAuth = () => firebase.auth();
 
 export const createUserWithEmailAndPassword = (email, password) =>
     firebaseAuth().createUserWithEmailAndPassword(email, password);

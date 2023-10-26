@@ -25,7 +25,7 @@ const SignInForm = () => {
                 type: actionTypes.SET_USER,
                 user: result.user,
             });
-            history.push(ROUTES.BOARDS);
+            history.push("/form");
             setLoading(false);
         } catch (error) {
             setError(error.message);

@@ -10,6 +10,7 @@ import { SignInPage } from './pages/SignInPage';
 import { BoardsPage } from './pages/BoardsPage';
 import { BoardPage } from './pages/BoardPage';
 import { NotFoundPage } from './pages/NotFoundPage';
+import { NameForm } from './pages/Skills'
 
 export const Content = withAuthentication(() => (
     <Router>
@@ -25,6 +26,7 @@ export const Content = withAuthentication(() => (
                     <Route exact path={ROUTES.SIGN_IN} component={SignInPage} />
                     <Route exact path={ROUTES.BOARDS} component={BoardsPage} />
                     <Route exact path={ROUTES.BOARD} component={BoardPage} />
+                    <Route exact path={"/form" }component={NameForm} />
                     <Route component={NotFoundPage} />
                 </Switch>
             </div>
