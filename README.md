@@ -116,6 +116,7 @@ pip install --upgrade pip
 
 pip install scikit-learn
 pip install spacy
+pip install $(spacy info en_core_web_sm --url)
 
 # Deactivate virtual environment ( after use )
 deactivate
