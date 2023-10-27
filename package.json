@@ -8,7 +8,10 @@
         "@ant-design/icons": "^4.7.0",
         "@craco/craco": "^6.3.0",
         "antd": "^4.16.0",
+        "babel-eslint": "^10.1.0",
         "nanoid": "^3.1.29",
+        "postcss-flexbugs-fixes": "^5.0.2",
+        "postcss-preset-env": "^9.2.0",
         "prop-types": "^15.7.2",
         "react": "^17.0.2",
         "react-dom": "^17.0.2",
@@ -19,7 +22,7 @@
     },
     "scripts": {
         "start": "craco start --openssl-legacy-provider",
-        "build": "craco build",
+        "build": "craco build --openssl-legacy-provider",
         "test": "craco test",
         "eject": "react-scripts eject",
         "eslint": "eslint \"src/**/*.+(js|jsx)\"",
@@ -42,7 +45,7 @@
         "firebase": "^9.0.1",
         "husky": "^7.0.2",
         "lint-staged": "^11.1.2",
-        "postcss": "^7.0.39",
+        "postcss": "^8.4.31",
         "prettier": "2.3.2",
         "tailwindcss": "npm:@tailwindcss/postcss7-compat@^2.2.16",
         "webpack-bundle-analyzer": "^4.4.2"
