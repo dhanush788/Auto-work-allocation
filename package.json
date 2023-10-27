@@ -4,7 +4,7 @@
     "private": true,
     "dependencies": {
         "@ant-design/codemod-v4": "^1.1.0",
-        "@ant-design/compatible": "^1.1.2",
+        "@ant-design/compatible": "^5.1.2",
         "@ant-design/icons": "^4.8.1",
         "@craco/craco": "^6.3.0",
         "antd": "^4.24.14",
