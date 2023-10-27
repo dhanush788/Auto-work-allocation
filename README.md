@@ -42,10 +42,10 @@ The **Auto Work Allocation** project is a system designed to automate the task o
 
 ## Dependencies
 
-```
-1. (python)[https://www.python.org/downloads/]
-2. (npm)[https://www.npmjs.com/]
+1. [python](https://www.python.org/downloads/)
+2. [npm](https://www.npmjs.com/)
 
+```
 Python dependencies:
 Package            Version
 ------------------ ----------------------------------
@@ -108,6 +108,7 @@ You can either install the python dependencies on your pc, or create a virtual e
 ```bash
 python3 -m venv <env_name>
 
+# Activate virtual environment
 source <env_name>/bin/activate
 
 # Upgrade pip
@@ -115,6 +116,9 @@ pip install --upgrade pip
 
 pip install scikit-learn
 pip install spacy
+
+# Deactivate virtual environment ( after use )
+deactivate
 ```
 
 ## Usage:
@@ -127,7 +131,7 @@ By automating the work allocation process, this project aims to streamline opera
 
 To set up and run this project, follow these steps:
 
-1. Make sure all (dependencies)[https://github.com/dhanush788/Auto-work-allocation#dependencies] are met
+1. Make sure all [dependencies](https://github.com/dhanush788/Auto-work-allocation#dependencies) are met
 
 2. Change current directory to root directory of project
 
