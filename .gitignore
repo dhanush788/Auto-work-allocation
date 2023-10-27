@@ -21,3 +21,6 @@ yarn-debug.log*
 yarn-error.log*
 
 .firebase
+
+# Virtual environment
+task_prediction/env/**
