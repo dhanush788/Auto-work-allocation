@@ -22,6 +22,7 @@ export const BoardPage = withRouter(
 
         const fetchBoard = async () => {
             const data = (await boardService.getBoard(boardId())).val();
+            console.log(data)
             setBoard(prepareBoard(data));
         };
 

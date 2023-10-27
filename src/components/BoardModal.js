@@ -21,6 +21,7 @@ export const BoardModal = (props) => {
         }
         await action({
             title: boardTitle,
+            teamMembers:tags,
         });
         setData({
             title:boardTitle,
