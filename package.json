@@ -4,8 +4,8 @@
     "private": true,
     "dependencies": {
         "@ant-design/codemod-v4": "^1.1.0",
-        "@ant-design/compatible": "^1.0.8",
-        "@ant-design/icons": "^4.7.0",
+        "@ant-design/compatible": "^1.1.2",
+        "@ant-design/icons": "^4.8.1",
         "@craco/craco": "^6.3.0",
         "antd": "^4.24.14",
         "babel-eslint": "^10.1.0",
