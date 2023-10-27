@@ -305,3 +305,309 @@ Design and implement system-level climate modeling and environmental simulations
 Implement and manage system-level computational fluid dynamics (CFD) and simulations.,Systems Programmer
 Optimize system-level support for nuclear technology and fusion energy.,Systems Programmer
 Work with low-level research and development of emerging technologies.,Systems Programmer
+
+# Devops Engineer
+Implement and manage continuous integration (CI) pipelines.,Devops Engineer
+Automate software build and deployment processes.,Devops Engineer
+Create and manage infrastructure as code (IaC) scripts.,Devops Engineer
+Set up and configure version control systems (e.g., Git).,Devops Engineer
+Work with containerization and orchestration (e.g., Docker, Kubernetes).,Devops Engineer
+Develop and maintain deployment scripts and recipes.,Devops Engineer
+Implement and manage continuous delivery (CD) workflows.,Devops Engineer
+Design and maintain scalable and resilient server environments.,Devops Engineer
+Automate configuration management (e.g., Ansible, Puppet).,Devops Engineer
+Create and manage server provisioning and scaling scripts.,Devops Engineer
+Set up and configure monitoring and alerting tools (e.g., Prometheus).,Devops Engineer
+Work with cloud platforms (e.g., AWS, Azure, Google Cloud).,Devops Engineer
+Implement and manage microservices architectures.,Devops Engineer
+Develop and maintain disaster recovery plans.,Devops Engineer
+Automate database backup and migration processes.,Devops Engineer
+Create and manage release management pipelines.,Devops Engineer
+Set up and configure serverless computing environments.,Devops Engineer
+Implement and manage infrastructure security measures.,Devops Engineer
+Work with log aggregation and analysis tools (e.g., ELK Stack).,Devops Engineer
+Develop and maintain automated testing frameworks.,Devops Engineer
+Automate network and firewall configuration.,Devops Engineer
+Create and manage version control hooks and integrations.,Devops Engineer
+Set up and configure application performance monitoring tools.,Devops Engineer
+Implement and manage multi-environment deployments (e.g., Dev, Test, Prod).,Devops Engineer
+Develop and maintain automated incident response procedures.,Devops Engineer
+Automate compliance and auditing processes.,Devops Engineer
+Create and manage container registries.,Devops Engineer
+Set up and configure application load balancing.,Devops Engineer
+Implement and manage blue-green and canary deployments.,Devops Engineer
+Work with infrastructure optimization tools (e.g., Terraform).,Devops Engineer
+Develop and maintain infrastructure testing frameworks.,Devops Engineer
+Automate database schema updates and migrations.,Devops Engineer
+Create and manage configuration drift detection and remediation.,Devops Engineer
+Set up and configure infrastructure as code (IaC) repositories.,Devops Engineer
+Implement and manage automated compliance checks.,Devops Engineer
+Work with continuous improvement and optimization processes.,Devops Engineer
+Develop and maintain infrastructure cost monitoring and control.,Devops Engineer
+Automate SSL certificate management.,Devops Engineer
+Create and manage infrastructure access control and permissions.,Devops Engineer
+Set up and configure high availability and failover solutions.,Devops Engineer
+Implement and manage automated resource allocation.,Devops Engineer
+Work with infrastructure monitoring dashboards.,Devops Engineer
+Develop and maintain automated change control processes.,Devops Engineer
+Automate disaster recovery testing procedures.,Devops Engineer
+Create and manage infrastructure blueprint templates.,Devops Engineer
+Set up and configure incident management and response tools.,Devops Engineer
+Implement and manage infrastructure tagging and categorization.,Devops Engineer
+Work with automated release notes generation.,Devops Engineer
+Develop and maintain infrastructure performance benchmarking.,Devops Engineer
+Automate infrastructure capacity planning.,Devops Engineer
+Create and manage deployment rollback strategies.,Devops Engineer
+Set up and configure infrastructure-as-a-service (IaaS) platforms.,Devops Engineer
+Implement and manage automated environment provisioning.,Devops Engineer
+Work with infrastructure secrets and key management.,Devops Engineer
+Develop and maintain automated security vulnerability scanning.,Devops Engineer
+Automate infrastructure compliance reporting.,Devops Engineer
+Create and manage infrastructure resource inventory.,Devops Engineer
+Set up and configure backup and recovery solutions.,Devops Engineer
+Implement and manage cross-team collaboration tools (e.g., Slack).,Devops Engineer
+Work with version control branching strategies.,Devops Engineer
+Develop and maintain infrastructure testing frameworks.,Devops Engineer
+Automate database schema updates and migrations.,Devops Engineer
+Create and manage configuration drift detection and remediation.,Devops Engineer
+Set up and configure infrastructure as code (IaC) repositories.,Devops Engineer
+Implement and manage automated compliance checks.,Devops Engineer
+Work with continuous improvement and optimization processes.,Devops Engineer
+Develop and maintain infrastructure cost monitoring and control.,Devops Engineer
+Automate SSL certificate management.,Devops Engineer
+Create and manage infrastructure access control and permissions.,Devops Engineer
+Set up and configure high availability and failover solutions.,Devops Engineer
+Implement and manage automated resource allocation.,Devops Engineer
+Work with infrastructure monitoring dashboards.,Devops Engineer
+Develop and maintain automated change control processes.,Devops Engineer
+Automate disaster recovery testing procedures.,Devops Engineer
+Create and manage infrastructure blueprint templates.,Devops Engineer
+Set up and configure incident management and response tools.,Devops Engineer
+Implement and manage infrastructure tagging and categorization.,Devops Engineer
+Work with automated release notes generation.,Devops Engineer
+Develop and maintain infrastructure performance benchmarking.,Devops Engineer
+Automate infrastructure capacity planning.,Devops Engineer
+Create and manage deployment rollback strategies.,Devops Engineer
+Set up and configure infrastructure-as-a-service (IaaS) platforms.,Devops Engineer
+Implement and manage automated environment provisioning.,Devops Engineer
+Work with infrastructure secrets and key management.,Devops Engineer
+Develop and maintain automated security vulnerability scanning.,Devops Engineer
+Automate infrastructure compliance reporting.,Devops Engineer
+Create and manage infrastructure resource inventory.,Devops Engineer
+Set up and configure backup and recovery solutions.,Devops Engineer
+Implement and manage cross-team collaboration tools (e.g., Slack).,Devops Engineer
+Work with version control branching strategies.,Devops Engineer
+Develop and maintain infrastructure testing frameworks.,Devops Engineer
+Automate database schema updates and migrations.,Devops Engineer
+Create and manage configuration drift detection and remediation.,Devops Engineer
+Set up and configure infrastructure as code (IaC) repositories.,Devops Engineer
+Implement and manage automated compliance checks.,Devops Engineer
+Work with continuous improvement and optimization processes.,Devops Engineer
+Develop and maintain infrastructure cost monitoring and control.,Devops Engineer
+Automate SSL certificate management.,Devops Engineer
+Create and manage infrastructure access control and permissions.,Devops Engineer
+Set up and configure high availability and failover solutions.,Devops Engineer
+
+# Game Developer
+Design game concepts and mechanics.,Game Developer
+Develop game prototypes.,Game Developer
+Create 2D or 3D game assets (characters, objects, environments).,Game Developer
+Write game scripts and code.,Game Developer
+Implement player controls and interactions.,Game Developer
+Design and program game levels.,Game Developer
+Optimize game performance for various platforms.,Game Developer
+Debug and fix game bugs and issues.,Game Developer
+Implement game physics and animations.,Game Developer
+Work with game engines (e.g., Unity, Unreal Engine).,Game Developer
+Create and integrate sound effects and music.,Game Developer
+Develop multiplayer and online game features.,Game Developer
+Design and implement in-game user interfaces.,Game Developer
+Test and balance game difficulty.,Game Developer
+Create and manage game project timelines.,Game Developer
+Work with version control systems (e.g., Git).,Game Developer
+Collaborate with artists and designers.,Game Developer
+Develop and implement monetization strategies.,Game Developer
+Create game documentation and tutorials.,Game Developer
+Publish games on app stores and platforms.,Game Developer
+Perform game market research and analysis.,Game Developer
+Work on game narrative and storytelling.,Game Developer
+Implement AI for non-player characters (NPCs).,Game Developer
+Design and build game menus and UI screens.,Game Developer
+Create and manage game assets pipelines.,Game Developer
+Work on character rigging and animations.,Game Developer
+Optimize game graphics and textures.,Game Developer
+Develop game testing strategies.,Game Developer
+Implement player progression systems.,Game Developer
+Design and program game cutscenes.,Game Developer
+Create and manage game development tools.,Game Developer
+Work on procedural content generation.,Game Developer
+Develop game camera systems.,Game Developer
+Implement achievements and leaderboards.,Game Developer
+Work on game monetization models (e.g., in-app purchases).,Game Developer
+Create and manage game marketing materials.,Game Developer
+Develop game tutorials and onboarding.,Game Developer
+Work on virtual reality (VR) or augmented reality (AR) games.,Game Developer
+Design and program game lighting and shaders.,Game Developer
+Create and manage game analytics systems.,Game Developer
+Implement game accessibility features.,Game Developer
+Work on game localization and translation.,Game Developer
+Develop tools for level design and world-building.,Game Developer
+Implement game networking and multiplayer features.,Game Developer
+Work on game economy and virtual goods.,Game Developer
+Create and manage game build and deployment pipelines.,Game Developer
+Develop game storyboards and animatics.,Game Developer
+Implement game security and anti-cheat measures.,Game Developer
+Work with motion capture data.,Game Developer
+Create and manage game user testing.,Game Developer
+Develop game audio middleware integration.,Game Developer
+Implement cloud gaming and streaming features.,Game Developer
+Work on game art and animation pipelines.,Game Developer
+Create and manage game monetization dashboards.,Game Developer
+Develop game day-one patches and updates.,Game Developer
+Design and program game mini-games and side quests.,Game Developer
+Implement game character customization systems.,Game Developer
+Work on game narrative branching and choices.,Game Developer
+Create and manage game content release schedules.,Game Developer
+Develop game save and progression systems.,Game Developer
+Implement game dynamic weather and day-night cycles.,Game Developer
+Work on user-generated content (UGC) features.,Game Developer
+Design and build game storefronts and shops.,Game Developer
+Create and manage game live events and challenges.,Game Developer
+Develop game esports and competitive features.,Game Developer
+Implement game voice acting and localization.,Game Developer
+Work on game streaming and sharing integrations.,Game Developer
+Create and manage game community forums and social media.,Game Developer
+Develop game cross-platform play and compatibility.,Game Developer
+Design and program game modding and custom content support.,Game Developer
+Implement game virtual reality (VR) interactions.,Game Developer
+Work on game artificial intelligence (AI) learning.,Game Developer
+Create and manage game user-generated content (UGC) platforms.,Game Developer
+Develop game procedural generation algorithms.,Game Developer
+Implement game leaderboards and rankings.,Game Developer
+Design and build game item and loot systems.,Game Developer
+Create and manage game feedback and bug reporting tools.,Game Developer
+Develop game user account and profile systems.,Game Developer
+Implement game streaming and spectating features.,Game Developer
+Work on game level editor and modding tools.,Game Developer
+Design and program game replay and cinematic systems.,Game Developer
+Implement game mobile and touch screen controls.,Game Developer
+Create and manage game merchandise and merchandise stores.,Game Developer
+Develop game cross-platform progression and save syncing.,Game Developer
+Work on game narrative scripting and branching.,Game Developer
+Design and build game dialogue and conversation systems.,Game Developer
+Create and manage game procedural storytelling.,Game Developer
+Implement game procedural map generation.,Game Developer
+Develop game companion apps and second-screen experiences.,Game Developer
+Implement game user-generated quests and missions.,Game Developer
+Work on game AI-driven content generation.,Game Developer
+Create and manage game user-generated characters and NPCs.,Game Developer
+Develop game user-generated art and assets.,Game Developer
+Implement game dynamic character personality and behavior.,Game Developer
+Work on game player-driven narrative and storytelling.,Game Developer
+Design and program game dynamic world simulation.,Game Developer
+Create and manage game collaborative and social gameplay.,Game Developer
+Develop game content streaming and continuous updates.,Game Developer
+Implement game dynamic audio environments.,Game Developer
+Work on game user-generated music and soundtracks.,Game Developer
+
+# Mobile App Developer
+Design user interfaces (UI) for mobile apps.,Mobile App Developer
+Develop app prototypes and wireframes.,Mobile App Developer
+Write code for app functionality.,Mobile App Developer
+Implement mobile app navigation and user experience.,Mobile App Developer
+Design and program in-app animations.,Mobile App Developer
+Optimize app performance and responsiveness.,Mobile App Developer
+Debug and fix app bugs and crashes.,Mobile App Developer
+Work with mobile app development frameworks.,Mobile App Developer
+Create and integrate app databases.,Mobile App Developer
+Implement user authentication and security features.,Mobile App Developer
+Develop in-app payment and monetization options.,Mobile App Developer
+Design and program push notifications.,Mobile App Developer
+Create app icons and logos.,Mobile App Developer
+Test app compatibility with various devices and screen sizes.,Mobile App Developer
+Develop and maintain app project schedules.,Mobile App Developer
+Work with version control systems (e.g., Git).,Mobile App Developer
+Collaborate with designers and product managers.,Mobile App Developer
+Create and manage app documentation.,Mobile App Developer
+Publish apps on app stores (e.g., Apple App Store, Google Play).,Mobile App Developer
+Perform app market research and analysis.,Mobile App Developer
+Implement app analytics and user tracking.,Mobile App Developer
+Work on app accessibility features.,Mobile App Developer
+Design and build app onboarding and tutorials.,Mobile App Developer
+Create and manage app assets and resources.,Mobile App Developer
+Implement app localization and internationalization.,Mobile App Developer
+Work on app widget and extension development.,Mobile App Developer
+Develop app testing strategies and automation.,Mobile App Developer
+Design and program offline and data synchronization features.,Mobile App Developer
+Implement in-app user feedback and support.,Mobile App Developer
+Create and manage app updates and versioning.,Mobile App Developer
+Develop app caching and data storage solutions.,Mobile App Developer
+Work with app background processing and services.,Mobile App Developer
+Implement app deep linking and intents.,Mobile App Developer
+Design and build app custom views and components.,Mobile App Developer
+Create and manage app theme and style options.,Mobile App Developer
+Develop app in-app purchase and subscription models.,Mobile App Developer
+Implement app privacy and data protection measures.,Mobile App Developer
+Work on app security and encryption.,Mobile App Developer
+Design and program app gamification elements.,Mobile App Developer
+Create and manage app customer reviews and ratings.,Mobile App Developer
+Develop app location-based features and services.,Mobile App Developer
+Implement app camera and media features.,Mobile App Developer
+Work on app integration with third-party APIs.,Mobile App Developer
+Design and build app social media sharing and login.,Mobile App Developer
+Create and manage app background image processing.,Mobile App Developer
+Develop app augmented reality (AR) or virtual reality (VR) features.,Mobile App Developer
+Implement app offline map and navigation.,Mobile App Developer
+Work on app QR code and barcode scanning.,Mobile App Developer
+Design and program app audio and video playback.,Mobile App Developer
+Create and manage app mobile payments and wallets.,Mobile App Developer
+Develop app notification center and control panel.,Mobile App Developer
+Implement app data synchronization and backup.,Mobile App Developer
+Work with app geolocation and mapping.,Mobile App Developer
+Design and build app document and file management.,Mobile App Developer
+Create and manage app local and remote notifications.,Mobile App Developer
+Develop app data analysis and reporting.,Mobile App Developer
+Implement app speech recognition and synthesis.,Mobile App Developer
+Work on app wearable device integration.,Mobile App Developer
+Design and program app chat and messaging features.,Mobile App Developer
+Create and manage app drawing and sketching tools.,Mobile App Developer
+Develop app multi-language support and translation.,Mobile App Developer
+Implement app task and to-do lists.,Mobile App Developer
+Work on app fingerprint and facial recognition.,Mobile App Developer
+Design and build app augmented reality (AR) experiences.,Mobile App Developer
+Create and manage app virtual reality (VR) experiences.,Mobile App Developer
+Develop app audio streaming and podcasts.,Mobile App Developer
+Implement app indoor positioning and navigation.,Mobile App Developer
+Work on app cloud storage and synchronization.,Mobile App Developer
+Design and program app e-commerce and shopping features.,Mobile App Developer
+Create and manage app travel and location services.,Mobile App Developer
+Develop app fitness and health tracking.,Mobile App Developer
+Implement app real-time collaboration and sharing.,Mobile App Developer
+Work on app internet of things (IoT) integrations.,Mobile App Developer
+Design and build app booking and reservation systems.,Mobile App Developer
+Create and manage app photo and video editing.,Mobile App Developer
+Develop app survey and data collection forms.,Mobile App Developer
+Implement app chatbots and virtual assistants.,Mobile App Developer
+Work on app AI and machine learning features.,Mobile App Developer
+Design and program app games and interactive experiences.,Mobile App Developer
+Create and manage app event and ticketing services.,Mobile App Developer
+Develop app dashboards and data visualization.,Mobile App Developer
+Implement app augmented reality (AR) commerce.,Mobile App Developer
+Work on app video conferencing and live streaming.,Mobile App Developer
+Design and build app cryptocurrency and blockchain features.,Mobile App Developer
+Create and manage app dashboards and control panels.,Mobile App Developer
+Develop app social networking and community features.,Mobile App Developer
+Implement app real-time multiplayer gaming.,Mobile App Developer
+Work on app offline data access and syncing.,Mobile App Developer
+Design and program app custom keyboard and input methods.,Mobile App Developer
+Create and manage app smart home and IoT control.,Mobile App Developer
+Develop app voting and polling features.,Mobile App Developer
+Implement app ride-sharing and transportation services.,Mobile App Developer
+Work on app financial and budgeting tools.,Mobile App Developer
+Design and build app habit tracking and productivity tools.,Mobile App Developer
+Create and manage app restaurant and food delivery services.,Mobile App Developer
+Develop app dating and relationship features.,Mobile App Developer
+Implement app job search and employment services.,Mobile App Developer
+Work on app podcast and media streaming platforms.,Mobile App Developer
+Design and program app self-care and mental health support.,Mobile App Developer
+Create and manage app augmented reality (AR) marketing campaigns.,Mobile App Developer
