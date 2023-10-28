@@ -111,12 +111,7 @@ python3 -m venv <env_name>
 # Activate virtual environment
 source <env_name>/bin/activate
 
-# Upgrade pip
-pip install --upgrade pip
-
-pip install scikit-learn
-pip install spacy
-pip install $(spacy info en_core_web_sm --url)
+pip install -r requirements.txt
 
 # Deactivate virtual environment ( after use )
 deactivate
