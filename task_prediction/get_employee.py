@@ -1,5 +1,6 @@
 from parse_sentence import parse
 import json
+import random
 import sys
 
 # Mapping for skills (temporary for crude AI)
@@ -82,27 +83,44 @@ SKILL_MAPPING = {
             ]
         }
 
+def get_unique(data:list):
+    """ Get unique data from list """
+
+    unique = []
+    for item in data:
+        if item not in unique:
+            unique.append(item)
+
+    return unique
+
 def get_filtered_users(user_list, job_list):
     """ Get users filtered based on broad jobs """
 
     filtered_data = {}
 
+    # Gettings skill list
+    skill_list = []
     for user in user_list:
-        email = user["email"]
-        user_jobs = []
+        skill_list += get_unique(user["skills"])
 
-        for skill in user["skills"]:
-            # Checking appropriate job for skill
-            for job in job_list:
-                if skill in job_list[job]:
-                    if job not in user_jobs:
-                        user_jobs.append(job)
+    for job in job_list:
+        skills_for_job = job_list[job]
+        users_applicable = []
 
-        filtered_data[email] = user_jobs
+        for user in user_list:
+            email = user["email"]
+
+            for skill in user["skills"]:
+                if skill in skills_for_job and email not in users_applicable:
+                    users_applicable.append(email)
+
+        filtered_data[job] = users_applicable
 
     return filtered_data
 
 def get_employee(task):
+    """ Returns employee corresponding to task """
+
     # Loading data
     with open("../src/constant/constant.json", "r") as f:
         data = json.load(f)
@@ -112,8 +130,12 @@ def get_employee(task):
 
     # Parsing task
     job = parse(task)
-    print(job)
+
+    # Getting employee ( free and priority order not implemented )
+    employees_for_job = filtered_users[job]
+
+    return random.choices(employees_for_job)[0]
 
 if __name__ == "__main__":
     task = sys.argv[1]
-    get_employee(task)
+    print(get_employee(task))
