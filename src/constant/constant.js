@@ -1,5 +1,3 @@
-
-
 export const user = [
     {
         name: "Dhanush P K",
