@@ -2,6 +2,14 @@
 
 The **Auto Work Allocation** project is a system designed to automate the task of assigning work to individuals within an organization based on various factors, including their skills, previous day's performance data, workload, and other relevant criteria. The primary goal of this project is to optimize the allocation of tasks and responsibilities to maximize efficiency and productivity while ensuring that each person is assigned tasks that align with their expertise and availability.
 
+This video explains the project.Watch in 2X.
+[![Watch the video](https://img.youtube.com/vi/Arn1uZhryxY/maxresdefault.jpg)](https://www.youtube.com/watch?v=Arn1uZhryxY)
+
+Front-end hosted on vercel :https://auto-work-allocation-wyjf.vercel.app/
+
+Backend Fast API, ML model hosted on Render :https://fastapi-api-pybg.onrender.com/make-application-ui
+Give the task as route to get the details of the employee the tast is assigned to by the ML model.
+
 ## Key Features and Components
 
 ## Task Management System Features:
